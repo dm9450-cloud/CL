@@ -1,3 +1,4 @@
+//WAP
 package SEP_01;
 
 public class Code_3 {
