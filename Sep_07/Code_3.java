@@ -1,3 +1,4 @@
+//WAP
 package Sep_07;
 
 public class Code_3 {
